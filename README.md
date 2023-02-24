@@ -25,5 +25,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo71&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-  <img align="right" alt="italo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/755948149683519509/946424345390096444/ezgif.com-gif-maker.gif">
-   ![Snake animation](https://github.com/Clousbi/Clousbi/blob/output/github-contribution-grid-snake.svg)
+ 
