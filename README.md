@@ -25,4 +25,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo71&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/italo71/italo71/blob/output/github-contribution-grid-snake2.svg)
