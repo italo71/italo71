@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Arco consultoria
-- 🌱 I’m currently learning Angular, C#, node                                                                                               
+- 🌱 I’m currently learning Angular, C# (.NET and ASP.NET), node.js                                                                                               
 - 👯 I’m looking to collaborate on SIGAPARTS,SIGA,SIGA V2
 - 🤔 I’m looking for help with new features in SIGAPARTS,SIGA,SIGA V2, ProjetoTIMP
 - 💬 Ask me about anything
