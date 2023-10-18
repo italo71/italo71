@@ -8,14 +8,14 @@
 - 👯 I’m looking to collaborate on SIGAPARTS,SIGA,SIGA V2
 - 🤔 I’m looking for help with new features in SIGAPARTS,SIGA,SIGA V2, ProjetoTIMP
 - 💬 Ask me about anything
-- 📫 How to reach me: send me an email: italo7.braga@gmail.com
+- 📫 How to reach me: send me an email: italo.braga@yahoo.com
 - ⚡ Fun fact: I drink coffee without sugar
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Italo Braga">
 
 <div>
 <a href="https://instagram.com/italobp7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:italo7.braga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:italo.braga@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="http://www.linkedin.com/in/italo-braga-294bb7275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div>
