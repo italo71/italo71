@@ -3,12 +3,12 @@
 ### Welcome to my GitHub profile 👋
 
 
-- 🔭 I’m currently working on Arco consultoria
-- 🌱 I’m currently learning Angular, C# (.NET and ASP.NET), node.js                                                                                               
-- 👯 I’m looking to collaborate on SIGAPARTS,SIGA,SIGA V2
-- 🤔 I’m looking for help with new features in SIGAPARTS,SIGA,SIGA V2, ProjetoTIMP
+- 🔭 I’m currently working on Prefeitura Municipal de Igarapé
+- 🌱 I’m currently learning Angular, Node.JS and C#
+- 👯 I’m looking to collaborate on Mapa Cultural Igarapé
+- 🤔 I’m looking for help with new features in Mapa Cultural Igarapé
 - 💬 Ask me about anything
-- 📫 How to reach me: send me an email: italo.braga@yahoo.com
+- 📫 How to reach me: send me an email: italo7.braga@gmail.com
 - ⚡ Fun fact: I drink coffee without sugar
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Italo Braga">
