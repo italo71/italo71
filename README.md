@@ -3,10 +3,10 @@
 ### Welcome to my GitHub profile 👋
 
 
-- 🔭 I’m currently working on Prefeitura Municipal de Igarapé
+- 🔭 I’m currently working on Sempre Telecomunicações LTDA
 - 🌱 I’m currently learning Shell Scripts
-- 👯 I’m looking to collaborate on Mapa Cultural Igarapé
-- 🤔 I’m looking for help with new features in Mapa Cultural Igarapé
+- 👯 I’m looking to collaborate on helpNOC
+- 🤔 I’m looking for help with new features in helpNOC
 - 💬 Ask me about anything
 - 📫 How to reach me: send me an email: braga7.italo@gmail.com
 
